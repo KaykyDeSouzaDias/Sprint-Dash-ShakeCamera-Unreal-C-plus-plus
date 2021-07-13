@@ -5,7 +5,7 @@ This project is a sprint, dash and shake camera mechanic made with Unreal Engine
 A playable form of the project for you to test it and enjoy it! \
 Let's go: https://drive.google.com/file/d/10xyLCRAB3KuQx0STRq1OULaI14Ub8bEB/view?usp=sharing
 
-![](https://github.com/KaykyDeSouzaDias/Sprint-Dash-ShakeCamera-Unreal-C-plus-plus/blob/main/Images%20and%20GIFs/GameplayGIF.gif)
+![](https://github.com/KaykyDeSouzaDias/Sprint-Dash-ShakeCamera-Unreal-C-plus-plus/blob/main/Images%20and%20GIFs/SprintDashShakeCamGIF.gif)
 
 # Reference
 
